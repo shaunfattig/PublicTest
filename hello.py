@@ -1,6 +1,7 @@
 import argparse
 
 def greet_user(user):
+    """greet function"""
     print(f"hello {user}!")
 
 def main():
